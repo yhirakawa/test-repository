@@ -1,4 +1,4 @@
-![Alt text](/scirocco_webdriver.png)
+![Alt text](/path/to/scirocco_webdriver.png)
  
 # Application Test Automation Tool
  
