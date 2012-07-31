@@ -1,4 +1,4 @@
-![Alt text](http://path/to/scirocco_webdriver.png)
+![Alt text](.pn://github.com/yhirakawa/test-repository/blob/master/scirocco_webdriver.png)
  
 # Application Test Automation Tool
  
