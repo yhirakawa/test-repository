@@ -1,4 +1,4 @@
-![](./scirocco_webdriver.png)
+![scirocco_webdriver_logo](https://www.scirocco-cloud.com/images/scirocco_webdriver_logo.png)
 
 # Application Test Automation Tool
 
