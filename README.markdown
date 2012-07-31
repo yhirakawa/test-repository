@@ -1,4 +1,4 @@
-![Alt text](test-repository/blob/master/scirocco_webdriver.png)
+![Alt text](scirocco_webdriver.png)
  
 # Application Test Automation Tool
  
